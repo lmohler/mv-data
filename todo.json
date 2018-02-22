@@ -5,7 +5,7 @@
 			"taskTitle": "Do stuff"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "testing"
 		},
 		{
