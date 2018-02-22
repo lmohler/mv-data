@@ -6,7 +6,11 @@
 		},
 		{
 			"done": false,
-			"taskTitle": "testi"
+			"taskTitle": "testing"
+		},
+		{
+			"done": false,
+			"taskTitle": null
 		}
 	]
 }
