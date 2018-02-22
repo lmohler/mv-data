@@ -3,6 +3,10 @@
 		{
 			"done": true,
 			"taskTitle": "Do stuff"
+		},
+		{
+			"done": false,
+			"taskTitle": null
 		}
 	]
 }
