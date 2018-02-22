@@ -9,8 +9,7 @@
 			"taskTitle": "testing"
 		},
 		{
-			"done": false,
-			"taskTitle": null
+			"done": true
 		}
 	]
 }
